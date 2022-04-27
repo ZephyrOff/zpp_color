@@ -1,3 +1,15 @@
+####################################################################
+#/ Nom du projet: py-zpp_color                                    /#
+#/ Nom du fichier: color.py                                       /#
+#/ Type de fichier: fichier principal                             /#
+#/ Fichier annexe:                                                /#
+#/                                                                /#
+#/ Auteur: ZephyrOff  (Alexandre Pajak)                           /#
+#/ Version: 1.0                                                   /#
+#/ Description: Colorisation de texte dans un terminal            /#
+#/ Date: 26/04/2022                                               /#
+####################################################################
+
 import os
 
 class ColorClass(object):
