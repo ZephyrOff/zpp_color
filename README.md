@@ -1,4 +1,4 @@
-# :pencil2: py-zpp_color
+# :pencil2: zpp_color
 # Informations
 Librairie pour la colorisation de texte dans un terminal.<br>
 Permet de modifier la couleur du texte, la couleur de fond et le style.<br>
